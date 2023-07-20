@@ -1,0 +1,14 @@
+NOP  	 	no operation
+PUSH		push to stack the value. it's 4+4 = 8 bytes length command
+POP	        delete element from stack
+PRINT		print the top value from stack on screen
+ADD             adds two top values from stack, and replaces them with the result
+SUB             substracts the top value from the next, replaces them with the result
+MULT 
+DIVIDE
+QUIT
+SWAP		swaps 2 values on stack. a,b -> b,a
+INC		increments value on stack
+DEC		decrements value on stack
+
+

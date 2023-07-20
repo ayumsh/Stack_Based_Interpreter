@@ -1,0 +1,9 @@
+push 3
+push 4
+nop
+push 5
+pop 
+mult
+print
+quit
+
